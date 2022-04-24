@@ -1,3 +1,0 @@
-# cuddly-waffle
-Preliminary
-Testi
